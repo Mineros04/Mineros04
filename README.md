@@ -11,5 +11,5 @@ those languages more, as well as some new ones, like _Java or Rust_.
 > I would like to contact you somehow. Where can I?
 
 _You __would__? Can't believe, who would want to contact me?_
-Ehm... Anyways. You can contact me on my Discord: __Mineros04#4444__, where I am open to your questions and stuff.
+Ehm... Anyways, feel free to reach out to me on my Discord: __Mineros04#4444__, where I am open to your questions and stuff.
 For anyone curious about my other stuff, here is my [linktr.ee](https://linktr.ee/mineros04 "My linktr.ee").
