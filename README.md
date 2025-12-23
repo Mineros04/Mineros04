@@ -1,15 +1,14 @@
 # Hi,
 ### I'm @Mineros04!
 
-I'm a __high school__ student living in Czech Republic. I'm always open to suggestions regarding my public repositories.
-You can contact me about anything anytime and I might answer you based on your question.
+I'm a __university__ student living in Czech Republic, currently stuyding for bachelor's degree at Brno University of Technology, Faculty of Information Technology. 
+I'm always open to suggestions regarding my public repositories.
 
 ## What languages do I use to code?
-I mostly do __JavaScript__ at the moment, however I don't mind visiting _PHP, C# or Python_ sometimes. I also wish to learn
-those languages more, as well as some new ones, like _Java or Rust_.
+I'd say I am quite proficient in __TypeScript and PHP__. Most of the time I devote myself to web development. I love working with Vue and its derivatives, like Nuxt.
+I am doing my best to learn __Rust, Go, C#__. I try to grasp upon any opportunity to learn new stuff, be it languages, frameworks, concepts etc.
 
 > I would like to contact you somehow. Where can I?
 
-_You __would__? Can't believe, who would want to contact me?_
-Ehm... Anyways, feel free to reach out to me on my Discord: __Mineros04#4444__, where I am open to your questions and stuff.
+Feel free to reach out to me on my Discord: __@mineros04__, where I am open to your questions and other suggestions.
 For anyone curious about my other stuff, here is my [linktr.ee](https://linktr.ee/mineros04 "My linktr.ee").
