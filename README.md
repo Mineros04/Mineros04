@@ -9,4 +9,4 @@ I am currently learning Rust, Go, and C#. I seize every opportunity to learn new
 ## How to reach me
 
 Feel free to reach out to me on my Discord: __@mineros04__, where I am open to your questions and suggestions.
-For anyone curious about my other stuff, here is my [linktr.ee](https://linktr.ee/mineros04 "My linktr.ee").
+For anyone curious about my other stuff, here is my [website](https://mineros.dev/?utm_source=github&utm_content=profile_readme).
